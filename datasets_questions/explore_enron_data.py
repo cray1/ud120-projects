@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/conda/bin/python
 
 """ 
     Starter code for exploring the Enron dataset (emails + finances);

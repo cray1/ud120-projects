@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/conda/bin/python
 
 
 def outlierCleaner(predictions, ages, net_worths):

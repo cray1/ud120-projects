@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/conda/bin/python
 
 import matplotlib.pyplot as plt
 from prep_terrain_data import makeTerrainData

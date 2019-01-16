@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/conda/bin/python
 
 """ 
     This is the code to accompany the Lesson 3 (decision tree) mini-project.
